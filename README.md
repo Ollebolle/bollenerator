@@ -12,6 +12,8 @@ yarn global add ollenerator
 ```
 
 ## Template repos
+- [React](https://github.com/Ollebolle/react)
+- [React-Redux](https://github.com/Ollebolle/react-redux)
 - [fastify-react](https://github.com/Ollebolle/fastify-react)
 
 ## Contributing

@@ -1,3 +1,9 @@
 [submodule "templates/fastify-react"]
 	path = templates/fastify-react
 	url = https://github.com/Ollebolle/fastify-react
+[submodule "templates/react"]
+	path = templates/react
+	url = https://github.com/Ollebolle/react
+[submodule "templates/react-redux"]
+	path = templates/react-redux
+	url = https://github.com/Ollebolle/react-redux
